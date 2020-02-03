@@ -1,0 +1,312 @@
+[35m[Appium][39m Welcome to Appium v1.16.0
+[35m[Appium][39m Appium REST http interface listener started on 0.0.0.0:4723
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m11 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m2 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m2 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json/version[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json/version [39m[33m404[39m [90m1 ms - 55[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/json[39m
+[35m[HTTP][39m [90m{}[39m
+[debug] [35m[HTTP][39m No route found. Setting content type to 'text/plain'
+[35m[HTTP][39m [37m<-- GET /json [39m[33m404[39m [90m1 ms - 47[39m
+[35m[HTTP][39m [90m[39m
