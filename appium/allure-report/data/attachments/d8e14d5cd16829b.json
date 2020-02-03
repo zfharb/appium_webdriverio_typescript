@@ -1,0 +1,9 @@
+{
+  "script": "mobile: deepLink",
+  "args": [
+    {
+      "url": "popeyes://confirm-jwt?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiY2E2NDY5ZC02NzhiLTRjMjMtODdkMC03OWY3OTU1OTY2YmMiLCJzdGFnZSI6InN0YWdpbmciLCJwbGF0Zm9ybSI6ImFwcCIsImlhdCI6MTU4MDQ4NTAyNiwiZXhwIjoxNTgwNTcxNDI2fQ.owVmmJD9a3u8IkWAGM_XVo2c_hkSx6m-bvOy1uR3DsX6bJH8D7A68D94rxD4k1JmFxJxUm13bi0_6-y_fm6yag&user=emlhZC5mLmhhcmIrMTIzNDU2QGdtYWlsLmNvbQ%3D%3D",
+      "package": "com.emn8.mobilem8.nativeapp.popeyes"
+    }
+  ]
+}

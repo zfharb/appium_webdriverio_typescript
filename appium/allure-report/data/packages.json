@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "WebdriverIO and Appium",
+    "children" : [ {
+      "name" : "should be able to place an order successfully",
+      "uid" : "fceba5b3138dc6b8",
+      "parentUid" : "bc75310b7e672d35c79af45f0932a196",
+      "status" : "broken",
+      "time" : {
+        "start" : 1580492036143,
+        "stop" : 1580492056153,
+        "duration" : 20010
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator-5554-8.1.0" ]
+    } ],
+    "uid" : "bc75310b7e672d35c79af45f0932a196"
+  } ]
+}

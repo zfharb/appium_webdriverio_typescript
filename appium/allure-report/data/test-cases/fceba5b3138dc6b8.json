@@ -1,0 +1,434 @@
+{
+  "uid" : "fceba5b3138dc6b8",
+  "name" : "should be able to place an order successfully",
+  "fullName" : "WebdriverIO and Appium.should be able to place an order successfully",
+  "historyId" : "24e52b1ae9a14bc5418814f600fc434",
+  "time" : {
+    "start" : 1580492036143,
+    "stop" : 1580492056153,
+    "duration" : 20010
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Timeout of 20000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves. (/Users/ziadharb/workspace_rbi/EngineeringMonoRepo/appium/typeScript/tests/specs/app.simpleOrder.spec.js)",
+  "statusTrace" : "Error: Timeout of 20000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves. (/Users/ziadharb/workspace_rbi/EngineeringMonoRepo/appium/typeScript/tests/specs/app.simpleOrder.spec.js)\n                    at Test.Runnable._timeoutError (/Users/ziadharb/workspace_rbi/EngineeringMonoRepo/appium/node_modules/@wdio/mocha-framework/node_modules/mocha/lib/runnable.js:455:10)\n                    at Timeout.<anonymous> (/Users/ziadharb/workspace_rbi/EngineeringMonoRepo/appium/node_modules/@wdio/mocha-framework/node_modules/mocha/lib/runnable.js:266:24)\n                    at ontimeout (timers.js:436:11)\n                    at tryOnTimeout (timers.js:300:5)\n                    at listOnTimeout (timers.js:263:5)\n                    at Timer.processTimers (timers.js:223:10)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Timeout of 20000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves. (/Users/ziadharb/workspace_rbi/EngineeringMonoRepo/appium/typeScript/tests/specs/app.simpleOrder.spec.js)",
+    "statusTrace" : "Error: Timeout of 20000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves. (/Users/ziadharb/workspace_rbi/EngineeringMonoRepo/appium/typeScript/tests/specs/app.simpleOrder.spec.js)\n                    at Test.Runnable._timeoutError (/Users/ziadharb/workspace_rbi/EngineeringMonoRepo/appium/node_modules/@wdio/mocha-framework/node_modules/mocha/lib/runnable.js:455:10)\n                    at Timeout.<anonymous> (/Users/ziadharb/workspace_rbi/EngineeringMonoRepo/appium/node_modules/@wdio/mocha-framework/node_modules/mocha/lib/runnable.js:266:24)\n                    at ontimeout (timers.js:436:11)\n                    at tryOnTimeout (timers.js:300:5)\n                    at listOnTimeout (timers.js:263:5)\n                    at Timer.processTimers (timers.js:223:10)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1580492036151,
+        "stop" : 1580492036284,
+        "duration" : 133
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d8e14d5cd16829b",
+        "name" : "Request",
+        "source" : "d8e14d5cd16829b.json",
+        "type" : "application/json",
+        "size" : 491
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/contexts",
+      "time" : {
+        "start" : 1580492036285,
+        "stop" : 1580492036416,
+        "duration" : 131
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e69cf6015687f2dd",
+        "name" : "Response",
+        "source" : "e69cf6015687f2dd.json",
+        "type" : "application/json",
+        "size" : 67
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/context",
+      "time" : {
+        "start" : 1580492036417,
+        "stop" : 1580492040496,
+        "duration" : 4079
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c92b6a50f7d235ea",
+        "name" : "Request",
+        "source" : "c92b6a50f7d235ea.json",
+        "type" : "application/json",
+        "size" : 59
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1580492040497,
+        "stop" : 1580492042188,
+        "duration" : 1691
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7f1f78113601f818",
+        "name" : "Request",
+        "source" : "7f1f78113601f818.json",
+        "type" : "application/json",
+        "size" : 67
+      }, {
+        "uid" : "b1a2be7ff02557d4",
+        "name" : "Response",
+        "source" : "b1a2be7ff02557d4.json",
+        "type" : "application/json",
+        "size" : 1946
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1580492042202,
+        "stop" : 1580492045496,
+        "duration" : 3294
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "547f947d83c54ab0",
+        "name" : "Request",
+        "source" : "547f947d83c54ab0.json",
+        "type" : "application/json",
+        "size" : 67
+      }, {
+        "uid" : "ea7730da5c661165",
+        "name" : "Response",
+        "source" : "ea7730da5c661165.json",
+        "type" : "application/json",
+        "size" : 1946
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1580492045502,
+        "stop" : 1580492047065,
+        "duration" : 1563
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f283a0f32159cd66",
+        "name" : "Request",
+        "source" : "f283a0f32159cd66.json",
+        "type" : "application/json",
+        "size" : 67
+      }, {
+        "uid" : "c9817caf92c71693",
+        "name" : "Response",
+        "source" : "c9817caf92c71693.json",
+        "type" : "application/json",
+        "size" : 1946
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1580492047070,
+        "stop" : 1580492047948,
+        "duration" : 878
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3f12fc2a1defa8eb",
+        "name" : "Request",
+        "source" : "3f12fc2a1defa8eb.json",
+        "type" : "application/json",
+        "size" : 67
+      }, {
+        "uid" : "b7aba323eb34a91f",
+        "name" : "Response",
+        "source" : "b7aba323eb34a91f.json",
+        "type" : "application/json",
+        "size" : 1946
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1580492047954,
+        "stop" : 1580492048614,
+        "duration" : 660
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e1d1ae7ca130c035",
+        "name" : "Request",
+        "source" : "e1d1ae7ca130c035.json",
+        "type" : "application/json",
+        "size" : 67
+      }, {
+        "uid" : "19d7329531121786",
+        "name" : "Response",
+        "source" : "19d7329531121786.json",
+        "type" : "application/json",
+        "size" : 1946
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1580492048619,
+        "stop" : 1580492050963,
+        "duration" : 2344
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "85d951d63d4209e1",
+        "name" : "Request",
+        "source" : "85d951d63d4209e1.json",
+        "type" : "application/json",
+        "size" : 67
+      }, {
+        "uid" : "92afee03868a7c3f",
+        "name" : "Response",
+        "source" : "92afee03868a7c3f.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/1eab756b-5e7e-4abf-95fd-3f2f78b015fd/displayed",
+      "time" : {
+        "start" : 1580492050965,
+        "stop" : 1580492053190,
+        "duration" : 2225
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3eb31a663f72e2cf",
+        "name" : "Response",
+        "source" : "3eb31a663f72e2cf.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1580492053191,
+        "stop" : 1580492053441,
+        "duration" : 250
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7c202f1118cc99",
+        "name" : "Request",
+        "source" : "7c202f1118cc99.json",
+        "type" : "application/json",
+        "size" : 67
+      }, {
+        "uid" : "d081bb9753ed80ec",
+        "name" : "Response",
+        "source" : "d081bb9753ed80ec.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/6863efd7-0f09-40ea-b942-ea5510e42758/click",
+      "time" : {
+        "start" : 1580492053443,
+        "stop" : 1580492054360,
+        "duration" : 917
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1580492054361,
+        "stop" : 1580492055109,
+        "duration" : 748
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "29ea54a2035fe49f",
+        "name" : "Request",
+        "source" : "29ea54a2035fe49f.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "b23cf96bc60ad0b4",
+        "name" : "Response",
+        "source" : "b23cf96bc60ad0b4.json",
+        "type" : "application/json",
+        "size" : 1939
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1580492055114,
+        "stop" : 1580492055769,
+        "duration" : 655
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "233e0e4eb0f5ad36",
+        "name" : "Request",
+        "source" : "233e0e4eb0f5ad36.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "fbb78a9cd853555c",
+        "name" : "Response",
+        "source" : "fbb78a9cd853555c.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/c96fb199-e8ad-45f8-abc1-4f893f5fda3c/displayed",
+      "time" : {
+        "start" : 1580492055771,
+        "stop" : 1580492056153,
+        "duration" : 382
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: Timeout of 20000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves. (/Users/ziadharb/workspace_rbi/EngineeringMonoRepo/appium/typeScript/tests/specs/app.simpleOrder.spec.js)\n                    at Test.Runnable._timeoutError (/Users/ziadharb/workspace_rbi/EngineeringMonoRepo/appium/node_modules/@wdio/mocha-framework/node_modules/mocha/lib/runnable.js:455:10)\n                    at Timeout.<anonymous> (/Users/ziadharb/workspace_rbi/EngineeringMonoRepo/appium/node_modules/@wdio/mocha-framework/node_modules/mocha/lib/runnable.js:266:24)\n                    at ontimeout (timers.js:436:11)\n                    at tryOnTimeout (timers.js:300:5)\n                    at listOnTimeout (timers.js:263:5)\n                    at Timer.processTimers (timers.js:223:10)",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 15,
+    "attachmentsCount" : 22,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "WebdriverIO and Appium"
+  }, {
+    "name" : "testClass",
+    "value" : "WebdriverIO and Appium"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to place an order successfully"
+  }, {
+    "name" : "package",
+    "value" : "WebdriverIO and Appium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-8.1.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "fceba5b3138dc6b8.json",
+  "parameterValues" : [ "emulator-5554-8.1.0" ]
+}

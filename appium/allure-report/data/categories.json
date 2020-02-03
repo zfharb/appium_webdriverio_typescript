@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Timeout of 20000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves. (/Users/ziadharb/workspace_rbi/EngineeringMonoRepo/appium/typeScript/tests/specs/app.simpleOrder.spec.js)",
+      "children" : [ {
+        "name" : "should be able to place an order successfully",
+        "uid" : "fceba5b3138dc6b8",
+        "parentUid" : "2ee4d271499b927b3808aac6279ddd58",
+        "status" : "broken",
+        "time" : {
+          "start" : 1580492036143,
+          "stop" : 1580492056153,
+          "duration" : 20010
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "emulator-5554-8.1.0" ]
+      } ],
+      "uid" : "2ee4d271499b927b3808aac6279ddd58"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

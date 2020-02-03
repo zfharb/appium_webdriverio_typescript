@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "WebdriverIO and Appium",
+    "children" : [ {
+      "name" : "should be able to place an order successfully",
+      "uid" : "fceba5b3138dc6b8",
+      "parentUid" : "81b41d09827385ae0295d5665832113d",
+      "status" : "broken",
+      "time" : {
+        "start" : 1580492036143,
+        "stop" : 1580492056153,
+        "duration" : 20010
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator-5554-8.1.0" ]
+    } ],
+    "uid" : "81b41d09827385ae0295d5665832113d"
+  } ]
+}

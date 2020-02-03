@@ -1,0 +1,11 @@
+[ {
+  "uid" : "fceba5b3138dc6b8",
+  "name" : "should be able to place an order successfully",
+  "time" : {
+    "start" : 1580492036143,
+    "stop" : 1580492056153,
+    "duration" : 20010
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
