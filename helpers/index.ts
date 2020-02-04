@@ -9,6 +9,6 @@ export function appLoginWithDeepLink() {
 
     browser.execute("mobile: deepLink", {
         url: brandToken.plk,
-        package: "com.emn8.mobilem8.nativeapp.popeyes"
+        package: ""
     });
 }
