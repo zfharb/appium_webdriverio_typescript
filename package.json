@@ -1,6 +1,6 @@
 {
-  "name": "appium-rbi",
-  "description": "Framework to run WebdriverIO tests with Appium to test native applications on iOS and Android",
+  "name": "iOS automation",
+  "description": "Framework to run WebdriverIO tests with Appium to test native applications on iOS",
   "scripts": {
     "build": "del-cli --force ./typeScript && tsc",
     "clean": "del-cli --force ./typeScript && del-cli --force ./allure-report && del-cli --force ./allure-results",
