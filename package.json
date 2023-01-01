@@ -21,7 +21,7 @@
     "chai": "^4.2.0",
     "mocha": "^7.0.1",
     "ts-node": "^8.6.2",
-    "tsconfig-paths": "^3.9.0",
+    "tsconfig-paths": "^3.10.1",
     "typescript": "^3.7.5",
     "wdio": "^4.0.0"
   }
